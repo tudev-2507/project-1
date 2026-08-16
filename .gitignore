@@ -1,0 +1,18 @@
+# Ignore environment secrets and runtime uploads
+/commons/env.php
+/uploads/
+
+# IDE and system files
+/.vscode/
+.DS_Store
+Thumbs.db
+
+# Node / vendor
+node_modules/
+vendor/
+
+# Composer
+composer.lock
+
+# Logs
+*.log
